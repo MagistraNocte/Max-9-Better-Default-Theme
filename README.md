@@ -8,7 +8,7 @@ All color hues stay the same, only brightness is changed, and all the brightness
 
 ## Installation instructions:
 
-Download the `Max 9 Better Default Theme` folder and put it in the `Packages` folder located in the Max library.
+Download the `Better Default Theme` folder and put it in the `Packages` folder located in the Max library.
 
 Now you can select the `better-default` theme in Max preferences (`Color and Theme > Color Theme`), it will be applied to the whole program (not just a single patcher) like any other default installed theme. Please note: like all other themes, this only affects the current computer Max is installed on.  
 
